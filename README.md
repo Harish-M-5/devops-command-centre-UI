@@ -1,8 +1,8 @@
-## DevOps Command Center Dashboard
+# DevOps Command Center Dashboard
 
+---
 
-
-## Overview:
+# Overview:
 
 - Modern organizations use multiple DevOps tools simultaneously. Teams often switch between GitHub, Docker, Kubernetes, AWS, Terraform, monitoring tools, and deployment systems.
 
@@ -12,75 +12,75 @@
 
 ---
 
-## Features:
+# Features:
 
-# Authentication
+## Authentication
 
 - Login Page
 - Secure User Interface
 - Enterprise Dashboard Access
 
-# Dashboard
+## Dashboard
 
 - Infrastructure Overview
 - DevOps Metrics Cards
 - System Health Status
 
-# Git Repository Management
+## Git Repository Management
 
 - Repository Listing
 - Branch Information
 - Repository Status
 
-# GitHub Actions Monitoring
+## GitHub Actions Monitoring
 
 - Build Status
 - Workflow History
 - CI/CD Pipeline Tracking
 
-# Docker Dashboard
+## Docker Dashboard
 
 - Container Monitoring
 - Running Services
 - Container Status
 
-# Kubernetes Dashboard
+## Kubernetes Dashboard
 
 - Pod Monitoring
 - Cluster Information
 - Node Status
 
-# Terraform Dashboard
+## Terraform Dashboard
 
 - Infrastructure Resources
 - Deployment State Tracking
 
-# AWS Dashboard
+## AWS Dashboard
 
 - EC2 Resources
 - S3 Buckets
 - Lambda Functions
 - Cloud Infrastructure Overview
 
-# Monitoring System
+## Monitoring System
 
 - CPU Usage
 - Memory Usage
 - Network Information
 - Infrastructure Health
 
-# Deployment Logs
+## Deployment Logs
 
 - Deployment History
 - Build Logs
 - Activity Tracking
 
-# Settings Module
+## Settings Module
 
 - Application Configuration
 - Environment Information
 
-# Additional Features
+## Additional Features
 
 - Dark Mode
 - Global Search Bar
@@ -90,26 +90,26 @@
 
 ---
 
-## Technologies Used:
+# Technologies Used:
 
-# Frontend
+## Frontend
 
 - React.js
 - JavaScript (ES6)
 - HTML5
 - CSS3
 
-# Routing
+## Routing
 
 - React Router DOM
 
-# UI Design
+## UI Design
 
 - Custom CSS
 - Responsive Layout
 - Enterprise Dashboard Design
 
-# DevOps Concepts Covered
+## DevOps Concepts Covered
 
 - Git
 - GitHub Actions
@@ -122,7 +122,7 @@
 
 ---
 
-## Project Folder Structure
+# Project Folder Structure
 
 src/
 
@@ -153,11 +153,11 @@ index.js
 
 ---
 
-## Problem Statement
+# Problem Statement
 
 DevOps engineers frequently use multiple tools to manage software delivery pipelines and cloud infrastructure.
 
-# Challenges include:
+## Challenges include:
 
 - Switching between multiple dashboards
 - Lack of centralized monitoring
@@ -169,31 +169,31 @@ This project solves these challenges by providing a unified dashboard experience
 
 ---
 
-## Use Cases
+# Use Cases
 
-# DevOps Teams
+## DevOps Teams
 
 - Monitor infrastructure health and deployment activities.
 
-# Cloud Engineers
+## Cloud Engineers
 
 - Track AWS resources and infrastructure status.
 
-# Developers
+## Developers
 
 - Monitor Git repositories and CI/CD pipelines.
 
-# Students
+## Students
 
 - Learn enterprise DevOps architecture and dashboard development.
 
-# Educational Projects
+## Educational Projects
 
 - Understand real-world DevOps workflow visualization.
 
 ---
 
-## How To Run The Project
+# How To Run The Project
 
 Clone Repository
 
@@ -217,9 +217,9 @@ http://localhost:3000
 
 ---
 
-React Setup
+# React Setup
 
-# Getting Started with Create React App
+## Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
@@ -293,9 +293,9 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/t
 
 --- 
 
-## My Learning Journey
+# My Learning Journey
 
-# Through this project, I learned:
+## Through this project, I learned:
 
 - React Component Architecture
 - React Routing
@@ -310,7 +310,7 @@ This project helped bridge frontend development skills with DevOps and cloud eng
 
 ---
 
-## Collaboration
+# Collaboration
 
 - This project is currently a frontend implementation and has the potential to evolve into a full-scale enterprise SaaS platform.
 
@@ -325,7 +325,7 @@ This project helped bridge frontend development skills with DevOps and cloud eng
 
 
 
-##  Output Scrrenshot:
+#  Output Scrrenshot:
 
 <img width="1920" height="1080" alt="Screenshot 2026-06-21 201544" src="https://github.com/user-attachments/assets/2297cee1-fc95-48f7-9e54-1daff8b40a51" />
 
@@ -348,38 +348,38 @@ This project helped bridge frontend development skills with DevOps and cloud eng
 --- 
 
 
-## key Concepts Used:
+# key Concepts Used:
 
-# React Components
+## React Components
 
 - Reusable UI architecture using functional components.
 
-# React Router
+## React Router
 
 - Page navigation and route management.
 
 
-# Managing dashboard data and UI interactions.
+## Managing dashboard data and UI interactions.
 
-# Responsive Design
+## Responsive Design
 
 - Mobile-first enterprise UI design.
 
-# Enterprise Dashboard Architecture
+## Enterprise Dashboard Architecture
 
 - Professional dashboard layout and modular structure.
 
-# DevOps Workflow Visualization
+## DevOps Workflow Visualization
 
  Representation of real-world DevOps systems.
 
 ---
 
-## Future Enhancements
+# Future Enhancements
 
 - This project can be upgraded into a complete SaaS platform.
 
-# Future roadmap:
+## Future roadmap:
 
 - Backend API Development
 - User Authentication System
@@ -402,7 +402,7 @@ Users will be able to connect their own GitHub, Docker, Kubernetes, Terraform, a
 
 ---
 
-## Ideal For
+# Ideal For
 
 - DevOps Engineers
 - Cloud Engineers
@@ -416,7 +416,7 @@ Users will be able to connect their own GitHub, Docker, Kubernetes, Terraform, a
 
 ---
 
-## Conclusion
+# Conclusion
 
 DevOps Command Center Dashboard demonstrates how modern organizations can centralize infrastructure monitoring, deployment management, and DevOps workflows into a single platform.
 
@@ -431,10 +431,10 @@ The project combines React development skills with enterprise software concepts 
 - BE Computer Science and Engineering
 
 
-Email:
+-Email:
 harishmurugan005arni@gmail.com
 
-Made with React.js 🚀
+-Made with React.js 
 
 
 
