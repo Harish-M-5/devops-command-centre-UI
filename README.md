@@ -310,7 +310,7 @@ This project helped bridge frontend development skills with DevOps and cloud eng
 
 ---
 
-# Collaboration
+# Collaboration with me? 
 
 - This project is currently a frontend implementation and has the potential to evolve into a full-scale enterprise SaaS platform.
 
