@@ -350,26 +350,26 @@ This project helped bridge frontend development skills with DevOps and cloud eng
 
 # key Concepts Used:
 
-## React Components
+### React Components
 
 - Reusable UI architecture using functional components.
 
-## React Router
+### React Router
 
 - Page navigation and route management.
 
 
-## Managing dashboard data and UI interactions.
+### Managing dashboard data and UI interactions.
 
-## Responsive Design
+### Responsive Design
 
 - Mobile-first enterprise UI design.
 
-## Enterprise Dashboard Architecture
+### Enterprise Dashboard Architecture
 
 - Professional dashboard layout and modular structure.
 
-## DevOps Workflow Visualization
+### DevOps Workflow Visualization
 
  Representation of real-world DevOps systems.
 
@@ -435,12 +435,5 @@ The project combines React development skills with enterprise software concepts 
 harishmurugan005arni@gmail.com
 
 -Made with React.js 
-
-
-
-
-
-
-
 
 
