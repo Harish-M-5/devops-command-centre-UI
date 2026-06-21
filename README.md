@@ -95,9 +95,9 @@
 ## Frontend
 
 - React.js
-- JavaScript (ES6)
-- HTML5
-- CSS3
+- JavaScript
+- HTML
+- CSS
 
 ## Routing
 
