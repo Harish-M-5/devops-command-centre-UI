@@ -4,7 +4,7 @@
 
 # Overview:
 
-- Modern organizations use multiple DevOps tools simultaneously. Teams often switch between GitHub, Docker, Kubernetes, AWS, Terraform, monitoring tools, and deployment systems.
+- Modern organizations use multiple DevOps tools simultaneously. Teams often switch between GitHub, Docker, Kubernetes, AWS, Terraform, monitoring tools and deployment systems.
 
 - This project aims to provide a unified command center where all critical DevOps information can be viewed and managed from one place.
 
@@ -195,25 +195,25 @@ This project solves these challenges by providing a unified dashboard experience
 
 # How To Run The Project
 
-Clone Repository
+- Clone Repository
 
-git clone repository-url
+`git clone repository-url`
 
-Move Into Project
+- Move Into Project
 
-cd devops-dashboard
+`cd devops-dashboard`
 
-Install Dependencies
+- Install Dependencies
 
-npm install
+`npm install`
 
-Start Application
+- Start Application
 
-npm start
+`npm start`
 
-Open Browser
+- Open Browser
 
-http://localhost:3000
+`http://localhost:3000`
 
 ---
 
