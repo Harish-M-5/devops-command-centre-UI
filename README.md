@@ -1,4 +1,4 @@
-# DevOps Command Center Dashboard
+# DevOps Command Centers
 
 ---
 
@@ -398,7 +398,7 @@ This project helped bridge frontend development skills with DevOps and cloud eng
 - Team Collaboration Features
 - SaaS Deployment
 
-Users will be able to connect their own GitHub, Docker, Kubernetes, Terraform, and AWS accounts directly into the platform.
+Users will be able to connect their own GitHub, Docker, Kubernetes, Terraform and AWS accounts directly into the platform
 
 ---
 
@@ -418,7 +418,7 @@ Users will be able to connect their own GitHub, Docker, Kubernetes, Terraform, a
 
 # Conclusion
 
-DevOps Command Center Dashboard demonstrates how modern organizations can centralize infrastructure monitoring, deployment management, and DevOps workflows into a single platform.
+DevOps Command Center Dashboard demonstrates how modern organizations can centralize infrastructure monitoring, deployment management and DevOps workflows into single platform
 
 The project combines React development skills with enterprise software concepts and DevOps knowledge, making it a valuable portfolio project for aspiring software engineers, cloud engineers, and DevOps professionals.
 
