@@ -4,11 +4,11 @@
 
 # Overview:
 
-- Modern organizations use multiple DevOps tools simultaneously. Teams often switch between GitHub, Docker, Kubernetes, AWS, Terraform, monitoring tools and deployment systems.
+- Modern organizations use multiple DevOps tools simultaneously. Teams often switch between GitHub, Docker, Kubernetes, AWS, Terraform, monitoring tools and deployment systems
 
-- This project aims to provide a unified command center where all critical DevOps information can be viewed and managed from one place.
+- This project aims to provide a unified command center where all critical DevOps information can be viewed and managed from one place
 
-- The current version focuses on frontend implementation using React.js with enterprise-grade UI design. Future versions can integrate real APIs, databases, authentication systems, cloud infrastructure, and monitoring services.
+- The current version focuses on frontend implementation using React.js with enterprise-grade UI design. Future versions can integrate real APIs, databases, authentication systems, cloud infrastructure and monitoring services
 
 ---
 
@@ -173,15 +173,15 @@ This project solves these challenges by providing a unified dashboard experience
 
 ## DevOps Teams
 
-- Monitor infrastructure health and deployment activities.
+- Monitor infrastructure health and deployment activities
 
 ## Cloud Engineers
 
-- Track AWS resources and infrastructure status.
+- Track AWS resources and infrastructure status
 
 ## Developers
 
-- Monitor Git repositories and CI/CD pipelines.
+- Monitor Git repositories and CI/CD pipelines
 
 ## Students
 
@@ -189,7 +189,7 @@ This project solves these challenges by providing a unified dashboard experience
 
 ## Educational Projects
 
-- Understand real-world DevOps workflow visualization.
+- Understand real-world DevOps workflow visualization
 
 ---
 
